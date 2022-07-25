@@ -1,6 +1,6 @@
  <h2>SQL and Tableau analysis of the Olist Ecommerce.<h2>
  <h3> Tableau Dashboard <h3>
- <img src="https://raw.githubusercontent.com/nnyase/SQL-data-analysis-ecommerce/main/Dashboard.png" width = "600 height = "600"/>
+ <img src="https://raw.githubusercontent.com/nnyase/SQL-data-analysis-ecommerce/main/Dashboard.png" width = "700" height = "700"/>
 <h3>Look at powerpoint for summary of analysis <a href="https://github.com/nnyase/SQL-data-analysis-ecommerce/blob/main/powerpoint%20sql%20analysis.pdf"> Powerpoint Summary </a> <h3>
 <h3>Look at OLIST data analysis.sql for all SQL queries <a href = "https://github.com/nnyase/SQL-data-analysis-ecommerce/blob/main/Olist%20Data%20Analysis.sql"> SQL Queries </a> <h3>
 
