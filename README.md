@@ -5,10 +5,12 @@
 Created a Tableau dashboard with quick/global filters. 
  
  Analyzed the impact of product descriptions on sales, the impact of shipping heavy product categories to rural areas, and the impact of delivery time on review scores using Microsoft SQL Server.<h5>
+ 
+ <h3>Powerpoint Summary of insight and findings <a href="https://github.com/nnyase/SQL-data-analysis-ecommerce/blob/main/powerpoint%20sql%20analysis.pdf"> Powerpoint Summary </a> <h3>
 
  <h3> Tableau Dashboard <h3>
  <img src="https://raw.githubusercontent.com/nnyase/SQL-data-analysis-ecommerce/main/Dashboard.png" width = "800" height = "600"/>
-<h3>Look at powerpoint for summary of analysis <a href="https://github.com/nnyase/SQL-data-analysis-ecommerce/blob/main/powerpoint%20sql%20analysis.pdf"> Powerpoint Summary </a> <h3>
+
 <h3>Look at OLIST data analysis.sql for all SQL queries <a href = "https://github.com/nnyase/SQL-data-analysis-ecommerce/blob/main/Olist%20Data%20Analysis.sql"> SQL Queries </a> <h3>
 
 <h3>Example of Query and table<h3>
