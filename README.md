@@ -1,7 +1,10 @@
  <h2>SQL and Tableau analysis of the Olist Ecommerce.<h2>
  
 <h4>Analyzed a database of 9 tables consisting of 100,000 transactions, reviews, and customer data on the eCommerce platform, Olist. 
-Created a Tableau dashboard with quick/global filters. Analyzed the impact of product descriptions on sales, the impact of shipping heavy product categories to rural areas, and the impact of delivery time on review scores using Microsoft SQL Server.<h5>
+ 
+Created a Tableau dashboard with quick/global filters. 
+ 
+ Analyzed the impact of product descriptions on sales, the impact of shipping heavy product categories to rural areas, and the impact of delivery time on review scores using Microsoft SQL Server.<h5>
 
  <h3> Tableau Dashboard <h3>
  <img src="https://raw.githubusercontent.com/nnyase/SQL-data-analysis-ecommerce/main/Dashboard.png" width = "800" height = "600"/>
